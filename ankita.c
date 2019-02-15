@@ -1,3 +1,4 @@
+//SWAPING OF TWO NO. BY USING 3 VARIABLE
 #include<stdio.h>
 int main()
 {
