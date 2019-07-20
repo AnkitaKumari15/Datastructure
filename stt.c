@@ -1,4 +1,4 @@
-//Implementation in stack using array!!!
+//Implementation of stack using array!!!
 #include<stdio.h>
 # define max 100
 int A[max];
